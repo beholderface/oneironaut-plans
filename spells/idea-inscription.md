@@ -6,12 +6,12 @@ Book entry says something like "Now that the barriers that once shackled my mind
 # Inscribe Idea
 Vec, Any ->
 
-Records an iota to the noosphere at the coordinates represented by the vector, which gets floored before inscription. An iota stored in this manner lasts for approximately three in-game days before vanishing. Casting this again at the same coordinates overwrites any previous iota, and refreshes the duration. Cannot write truenames. Costs 1 amethyst dust.
+Records an iota to the noosphere at the coordinates represented by the vector, which gets floored before inscription. An iota stored in this manner lasts for approximately three in-game days before the media comprising the iota will have diffused too much to be readable. Casting this again at the same coordinates overwrites any previous iota, and refreshes the duration. Cannot write truenames. Costs 1 amethyst dust.
 
 # Retrieve Idea
 Vec -> Any
 
-Fetches an iota from the noosphere which corresponds to the (floored) input coordinates. Costs 1 amethyst dust.
+Fetches an iota from the noosphere which corresponds to the (floored) input coordinates. Returns Garbage if used with a vector with no existing iota. Costs 1 amethyst dust.
 
 
 
