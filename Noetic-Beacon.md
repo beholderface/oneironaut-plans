@@ -4,3 +4,5 @@ A multiblock structure that consumes wisps to fuel itself, giving all players am
 Can hold up to 200,000 dust worth of media, and eats any wisp that comes within a block of the siphon with 95% efficiency. Consumes 1 dust/second, must be in loaded chunks.
 
 *Can* operate without power, but only produces a 1 block ambit radius, not large enough to reach the siphon's collection zone. You'll need to put your sentinel there in order to remotely refuel it, or GTP a wisp or something.
+
+Captone is created by using Media Transfusion on a vanilla Beacon. Siphon is created by mind flaying something. Everything else is crafted using normal recipes.
