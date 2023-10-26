@@ -3,4 +3,4 @@ In all the myriad tales of sorcery that I've read, very few ideas are more commo
 
 *the following text is unlocked after reaching the noosphere while enlightened*
 
-This has been a most interesting discovery. A realm of information, accessible from anywhere? Perhaps this supreme form of data transmission could be used to reach a semblance of immortality.
+This has been a most interesting discovery. A realm of information, accessible from anywhere? Perhaps this supreme form of data transmission could be used to reach a semblance of immortality, by binding my mind to a proper receptacle and remotely piloting my no-longer-mortal body.
