@@ -9,9 +9,9 @@ Vec | Entity, Any ->
 Records an iota to the noosphere at the coordinates represented by the vector/entity, which gets floored before inscription. An iota stored in this manner using a vector or player lasts for approximately three in-game days before the media comprising the iota will have diffused too much to be readable. Iotas on non-player entities last 20 minutes. Casting this again with the same anchor overwrites any previous iota, and refreshes the duration. Players must be enlightened in order to be valid anchors. Cannot write truenames. Costs 1 amethyst dust.
 
 # Retrieve Idea
-Vec | Player -> Any
+Vec | Entity -> Any
 
-Fetches an iota from the noosphere which corresponds to the (floored) input coordinates or player. Returns Garbage if used with an anchor with no existing iota. Costs 1 amethyst dust.
+Fetches an iota from the noosphere which corresponds to the (floored) input coordinates or entity. Returns Garbage if used with an anchor with no existing iota. Costs 1 amethyst dust.
 
 # Zone Exalation: Inscription
 Any, Vec, Num -> [Entity]
