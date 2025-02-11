@@ -1,0 +1,3 @@
+Some sort of shaped charge, one that releases most of its energy along a five-dimensional axis, punching a hole into the noosphere, and creating a slipway. If used in the noosphere itself, it creates an exit portal instead. 
+
+Crafted using a few extremely expensive ingredients (exact items TBD, but one of them is only found in a noosphere structure), and detonated by using media infusion on it, at a cost of 200,000 dust. The infusion recipe enables a blockstate that starts a countdown in the block's NBT, which produces a power 15 explosion when it reaches zero, and leaves behind a slipway (or exit) where the bomb was.
